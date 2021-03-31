@@ -1,0 +1,38 @@
+
+#object 1
+==========================
+Private: 0-Param-Constructor
+178865448
+178865448
+178865448
+===============================
+# Object-2
+==============
+Private: 0-Param-Constructor
+Private: 0-Param-Constructor
+712734420
+712734420
+178865448
+================================
+# Object-3
+===========
+Private: 0-Param-Constructor
+178865448
+178865448
+178865448
+================================
+#Object-4
+=========
+Private: 0-Param-Constructor
+Private: 0-Param-Constructor
+178865448
+Private: 0-Param-Constructor
+712734420
+361397210
+=================================
+#Object-5
+=========
+178865448
+712734420
+Private: 0-Param-Constructor
+361397210
